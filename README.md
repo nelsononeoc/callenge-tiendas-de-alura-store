@@ -1,6 +1,4 @@
 
-Los pasos anteriores permiten preparar el entorno mínimo para ejecutar el notebook.
-
 ## Uso
 
 1. Ejecuta `jupyter notebook` o `jupyter lab`.  
